@@ -1,0 +1,2 @@
+# soc
+a simple cpu
